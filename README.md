@@ -1,5 +1,11 @@
 # kube-ui-docker
 
+This repo assumes that you've got https://github.com/kubernetes-ui/kube-ui cloned at the same level as this repo e.g.,
+```
+├── kube-ui-docker
+├── kube-ui
+```
+
 To make the production code available to the Kubernetes api server, run this command from the top level directory:
 
 ```

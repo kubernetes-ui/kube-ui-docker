@@ -1,4 +1,4 @@
-# Makefile for the Docker image gcr.io/google_containers/kube-ui
+# Makefile for the Docker image gcr.io/kube-ui/kube-ui
 # MAINTAINER: Tim St. Clair <stclair@google.com>
 # If you update this image please check the tag value before pushing.
 
